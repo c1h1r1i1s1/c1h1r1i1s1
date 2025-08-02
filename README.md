@@ -5,15 +5,7 @@ I'm an aspiring **systems architect** with a **Bachelor of Advanced Computing** 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20Fane-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christianfane/)
 [![Website](https://img.shields.io/badge/Website-hello.thewoody.one-24292F?style=for-the-badge&logo=firefox-browser)](https://hello.thewoody.one)
 
----
-
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
-
 ### 💻 My skillsets
-
-**Languages I use:**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -22,8 +14,6 @@ I'm an aspiring **systems architect** with a **Bachelor of Advanced Computing** 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Tools, Frameworks and Platforms:**<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -40,6 +30,10 @@ I'm an aspiring **systems architect** with a **Bachelor of Advanced Computing** 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
+
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px;">
 
 ### 📦 Featured Projects
 
