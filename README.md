@@ -50,11 +50,9 @@ I'm an aspiring **systems architect** with a **Bachelor of Advanced Computing** 
 
 ---
 
-### GitHub Stats & Metrics
+![Metrics](./github-metrics.svg)
 
-> Powered by [lowlighter/metrics](https://github.com/lowlighter/metrics)
-
-![Metrics](https://github.com/c1h1r1i1s1/c1h1r1i1s1/blob/main/github-metrics.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c1h1r1i1s1&layout=compact&theme=tokyonight)
 
 ---
 
