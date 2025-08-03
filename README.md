@@ -1,3 +1,4 @@
+<br />
 <h1>G'day! Welcome to my GitHub profile</h1>
 
 I'm an aspiring **systems architect** with a **Bachelor of Advanced Computing** from **USyd** (CS Major, Music Minor). Always looking for that next project!
@@ -7,11 +8,13 @@ I'm an aspiring **systems architect** with a **Bachelor of Advanced Computing** 
 
 ---
 
+<br />
+
 ### 📦 Featured Projects
 
-<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; table-layout: fixed; width: 100%;">
-  <tr>
-    <td align="center" valign="top" width="33%">
+<table>
+  <tr style="border: 0px;">
+    <td align="center" valign="top" width="33%" style="border: 0px;">
       <img src="media/Thesis.png" alt="Thesis Banner" width="100%"/><br/><br/>
       <a href="https://github.com/c1h1r1i1s1/AIO_server">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=AIO_server&theme=dark" alt="AIO Server Repo"/>
@@ -20,13 +23,13 @@ I'm an aspiring **systems architect** with a **Bachelor of Advanced Computing** 
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=inpaint_manager&theme=dark" alt="Inpaint Manager Repo"/>
       </a>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="33%" style="border: 0px;">
       <img src="media/SpotifyCrate.png" alt="SpotifyCrate Banner" width="100%"/><br/><br/>
       <a href="https://github.com/c1h1r1i1s1/SpotifyCrate">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=SpotifyCrate&theme=dark" alt="SpotifyCrate Repo"/>
       </a>
     </td>
-    <td align="center" valign="top" width="33%">
+    <td align="center" valign="top" width="33%" style="border: 0px;">
       <img src="media/MrEgg.png" alt="MrEgg Banner" width="100%"/><br/><br/>
       <a href="https://github.com/c1h1r1i1s1/MrEgg">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=MrEgg&theme=dark" alt="MrEgg Repo"/>
@@ -52,7 +55,7 @@ I'm an aspiring **systems architect** with a **Bachelor of Advanced Computing** 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**Currently learning:**<br>
+### Currently learning
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
