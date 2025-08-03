@@ -5,6 +5,38 @@ I'm an aspiring **systems architect** with a **Bachelor of Advanced Computing** 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20Fane-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/christianfane/)
 [![Website](https://img.shields.io/badge/Website-hello.thewoody.one-24292F?style=for-the-badge&logo=firefox-browser)](https://hello.thewoody.one)
 
+---
+
+### 📦 Featured Projects
+
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; table-layout: fixed; width: 100%;">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <img src="media/Thesis.png" alt="Thesis Banner" width="100%"/><br/><br/>
+      <a href="https://github.com/c1h1r1i1s1/AIO_server">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=AIO_server&theme=dark" alt="AIO Server Repo"/>
+      </a><br/>
+      <a href="https://github.com/c1h1r1i1s1/inpaint_manager">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=inpaint_manager&theme=dark" alt="Inpaint Manager Repo"/>
+      </a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="media/SpotifyCrate.png" alt="SpotifyCrate Banner" width="100%"/><br/><br/>
+      <a href="https://github.com/c1h1r1i1s1/SpotifyCrate">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=SpotifyCrate&theme=dark" alt="SpotifyCrate Repo"/>
+      </a>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <img src="media/MrEgg.png" alt="MrEgg Banner" width="100%"/><br/><br/>
+      <a href="https://github.com/c1h1r1i1s1/MrEgg">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=MrEgg&theme=dark" alt="MrEgg Repo"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 💻 My skillsets
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -25,39 +57,6 @@ I'm an aspiring **systems architect** with a **Bachelor of Advanced Computing** 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
----
-
-### 🎓 Thesis Project
-
-<img src="Thesis.png" alt="Thesis Overview" width="100%"/>
-
-<p align="center">
-  <a href="https://github.com/c1h1r1i1s1/AIO_server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=AIO_server&theme=dark" alt="AIO Server Repo"/>
-  </a>
-  <a href="https://github.com/c1h1r1i1s1/inpaint_manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=inpaint_manager&theme=dark" alt="Inpaint Manager Repo"/>
-  </a>
-</p>
-
----
-
-### 🕹️ Personal Projects
-
-<p align="center">
-  <a href="https://github.com/c1h1r1i1s1/MrEgg">
-    <img src="MrEgg.png" alt="Mr. Egg Banner" width="45%"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=MrEgg&theme=dark" alt="MrEgg Repo"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/c1h1r1i1s1/SpotifyCrate">
-    <img src="SpotifyCrate.png" alt="SpotifyCrate Banner" width="45%"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=SpotifyCrate&theme=dark" alt="SpotifyCrate Repo"/>
-  </a>
-</p>
-</td>
-<td style="vertical-align: top;">
 
 ---
 
