@@ -9,8 +9,6 @@ I'm an aspiring **systems architect** with a **Bachelor of Advanced Computing** 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,7 +17,6 @@ I'm an aspiring **systems architect** with a **Bachelor of Advanced Computing** 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![npm](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
@@ -31,30 +28,36 @@ I'm an aspiring **systems architect** with a **Bachelor of Advanced Computing** 
 
 ---
 
-<table>
-  <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
+### 🎓 Thesis Project
 
-### 📦 Featured Projects
+<img src="Thesis.png" alt="Thesis Overview" width="100%"/>
 
-[![SpotifyCrate](https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=SpotifyCrate&theme=dark)](https://github.com/c1h1r1i1s1/SpotifyCrate)
-[![MrEgg](https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=MrEgg&theme=dark)](https://github.com/c1h1r1i1s1/MrEgg)
+<p align="center">
+  <a href="https://github.com/c1h1r1i1s1/AIO_server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=AIO_server&theme=dark" alt="AIO Server Repo"/>
+  </a>
+  <a href="https://github.com/c1h1r1i1s1/inpaint_manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=inpaint_manager&theme=dark" alt="Inpaint Manager Repo"/>
+  </a>
+</p>
 
-#### 🎓 Thesis Repositories
+---
 
-[![AIO_server](https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=AIO_server&theme=dark)](https://github.com/c1h1r1i1s1/AIO_server)
-[![inpaint_manager](https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=inpaint_manager&theme=dark)](https://github.com/c1h1r1i1s1/inpaint_manager)
+### 🕹️ Personal Projects
 
+<p align="center">
+  <a href="https://github.com/c1h1r1i1s1/MrEgg">
+    <img src="MrEgg.png" alt="Mr. Egg Banner" width="45%"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=MrEgg&theme=dark" alt="MrEgg Repo"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/c1h1r1i1s1/SpotifyCrate">
+    <img src="SpotifyCrate.png" alt="SpotifyCrate Banner" width="45%"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=SpotifyCrate&theme=dark" alt="SpotifyCrate Repo"/>
+  </a>
+</p>
 </td>
 <td style="vertical-align: top;">
-
-<!-- GitHub Metrics SVG Column -->
-
-<img src="./github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
