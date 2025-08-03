@@ -16,7 +16,7 @@
 
 <table>
   <tr style="border: 0px;">
-    <td align="center" valign="top" width="33%" style="border: 0px;">
+    <td align="center" valign="top" width="50%" style="border: 0px;">
       <img src="media/Thesis.png" alt="Thesis Banner" width="100%"/><br/><br/>
       <a href="https://github.com/c1h1r1i1s1/AIO_server">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=AIO_server&theme=dark" alt="AIO Server Repo"/>
@@ -25,16 +25,24 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=inpaint_manager&theme=dark" alt="Inpaint Manager Repo"/>
       </a>
     </td>
-    <td align="center" valign="top" width="33%" style="border: 0px;">
+    <td align="center" valign="top" width="50%" style="border: 0px;">
       <img src="media/SpotifyCrate.png" alt="SpotifyCrate Banner" width="100%"/><br/><br/>
       <a href="https://github.com/c1h1r1i1s1/SpotifyCrate">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=SpotifyCrate&theme=dark" alt="SpotifyCrate Repo"/>
       </a>
     </td>
-    <td align="center" valign="top" width="33%" style="border: 0px;">
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%" style="border: 0px;">
       <img src="media/MrEgg.png" alt="MrEgg Banner" width="100%"/><br/><br/>
       <a href="https://github.com/c1h1r1i1s1/MrEgg">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=MrEgg&theme=dark" alt="MrEgg Repo"/>
+      </a>
+    </td>
+    <td align="center" valign="top" width="50%" style="border: 0px;">
+      <img src="media/ColourQuest.png" alt="Colour Quest Banner" width="100%"/><br/><br/>
+      <a href="https://github.com/c1h1r1i1s1/Colour-Quest">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=Colour-Quest&theme=dark" alt="Colour Quest Repo"/>
       </a>
     </td>
   </tr>
