@@ -8,8 +8,6 @@
   [![Website](https://img.shields.io/badge/Website-hello.thewoody.one-24292F?style=for-the-badge&logo=firefox-browser)](https://hello.thewoody.one)
 </div>
 
----
-
 <br />
 
 <div align="center">
@@ -42,7 +40,7 @@
   </tr>
 </table>
 
----
+<br />
 
 <div align="center">
   
@@ -62,8 +60,6 @@
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-  <br />
-
   ### Currently learning
   
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -72,6 +68,8 @@
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
+
+<br />
 
 ---
 
