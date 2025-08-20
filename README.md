@@ -24,6 +24,12 @@
       <a href="https://github.com/c1h1r1i1s1/inpaint_manager">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=inpaint_manager&theme=dark" alt="Inpaint Manager Repo"/>
       </a>
+      <a href="https://github.com/c1h1r1i1s1/Real-Time-Inpainting">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=Real-Time-Inpainting&theme=dark" alt="Inpainting Model Repo"/>
+      </a><br/>
+      <a href="https://github.com/c1h1r1i1s1/thesis-headset">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=thesis-headset&theme=dark" alt="Meta Quest App Repo"/>
+      </a>
     </td>
     <td align="center" valign="top" width="50%" style="border: 0px;">
       <img src="media/SpotifyCrate.png" alt="SpotifyCrate Banner" width="100%"/><br/><br/>
