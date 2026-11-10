@@ -32,9 +32,9 @@
       </a>
     </td>
     <td align="center" valign="top" width="50%" style="border: 0px;">
-      <img src="media/SpotifyCrate.png" alt="SpotifyCrate Banner" width="100%"/><br/><br/>
-      <a href="https://github.com/c1h1r1i1s1/SpotifyCrate">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=SpotifyCrate&theme=dark" alt="SpotifyCrate Repo"/>
+      <img src="media/SpotifyCrate.png" alt="SpotiVinyl Banner" width="100%"/><br/><br/>
+      <a href="https://github.com/c1h1r1i1s1/SpotiVinyl">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=c1h1r1i1s1&repo=SpotiVinyl&theme=dark" alt="SpotiVinyl Repo"/>
       </a>
     </td>
   </tr>
